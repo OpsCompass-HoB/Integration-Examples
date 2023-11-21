@@ -1,3 +1,6 @@
+## This script assumes you have the dependency jq installed 
+## Read more about jq https://jqlang.github.io/jq/
+
 ## Set the company name here
 company_name="xxx"
 
